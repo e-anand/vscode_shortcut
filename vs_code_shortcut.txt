@@ -1,0 +1,52 @@
+ctrl c no need to select whole line just do it
+ctrl v
+
+ctrl x = delete whole line
+ctrl z bring back lines
+
+
+alt up = move line up
+alt down = move line down 
+
+ctrl alt right = move current file to split format to right 
+ctrl alt left = vice versa
+
+
+alt left = move between different files
+alt right = vice versa
+
+alt shift up = duplicate cuurrent line
+alt shift down = duplicate current line
+
+
+alt mouse click = for editing multiple ines
+
+ctrl p = searchbar
+ctrl shift p = command in vs code like settings
+
+
+ctrl d = highlight all variable with same 
+
+ctrl space  = sugguestion
+
+ctrl / = comment 
+
+ctrl l
+
+ctrl shift l = select multiple same word and change 
+
+ctrl d = one by one selection while pressing ctrl d no of time pressed
+
+ctrl b = toggle bar side bar
+
+ctrl o = open file
+
+ctrl shift e = show whhere is file
+
+ctrl shift []  = minimise the lines
+
+ctrl j or ctrl ` = open terminal bottom panel
+
+ctrl , = settings
+
+shift alt f = format entire code
